@@ -1,0 +1,5 @@
+../Core/Src/Sensor/UartComm.cpp:5:1:UartComm::UartComm(UART_HandleTypeDef*)	16	static
+../Core/Src/Sensor/UartComm.cpp:15:6:void UartComm::send(const char*)	24	static
+../Core/Src/Sensor/UartComm.cpp:30:6:void UartComm::receiveAndProcessLine()	16	static
+../Core/Src/Sensor/UartComm.cpp:43:6:void UartComm::init()	16	static
+../Core/Src/Sensor/UartComm.cpp:46:6:void UartComm::processReceivedData()	80	static

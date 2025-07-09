@@ -1,0 +1,7 @@
+C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/c++/13.3.1/bits/std_abs.h:75:3:constexpr float std::abs(float)	1
+C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/c++/13.3.1/cmath:127:3:constexpr float std::atan(float)	1
+C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/c++/13.3.1/cmath:438:3:constexpr float std::sqrt(float)	1
+C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\arm-none-eabi\include\c++\13.3.1\arm-none-eabi\thumb\v7e-m+fp\hard\bits\gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	1
+../Core/Src/Robot_Movement/KinematicData.cpp:3:1:KinematicData::KinematicData()	1
+../Core/Src/Robot_Movement/KinematicData.cpp:5:6:void KinematicData::update(float, float, float, float, float, float, float, std::string, std::string, std::string, std::string, std::string, std::string, std::string, std::string, float, float)	2
+../Core/Src/Robot_Movement/KinematicData.cpp:32:6:void KinematicData::calculateVectorProperties()	6

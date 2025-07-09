@@ -1,0 +1,8 @@
+../Core/Src/Sensor/LSM6DSOX.cpp:5:1:LSM6DSOX::LSM6DSOX(I2C_HandleTypeDef*)	16	static
+../Core/Src/Sensor/LSM6DSOX.cpp:10:6:void LSM6DSOX::writeRegister(uint8_t, uint8_t)	32	static
+../Core/Src/Sensor/LSM6DSOX.cpp:15:6:void LSM6DSOX::readSensorData(uint8_t, uint8_t)	40	static
+../Core/Src/Sensor/LSM6DSOX.cpp:20:6:bool LSM6DSOX::init()	40	static
+../Core/Src/Sensor/LSM6DSOX.cpp:39:6:void LSM6DSOX::processGyroData()	24	static
+../Core/Src/Sensor/LSM6DSOX.cpp:51:6:void LSM6DSOX::processAccelData()	24	static
+../Core/Src/Sensor/LSM6DSOX.cpp:63:6:void LSM6DSOX::updateData()	40	static
+../Core/Src/Sensor/LSM6DSOX.cpp:85:6:void LSM6DSOX::resetHeading()	16	static

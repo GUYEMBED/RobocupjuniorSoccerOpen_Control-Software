@@ -1,0 +1,13 @@
+C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/c++/13.3.1/bits/std_abs.h:75:3:constexpr float std::abs(float)	16	static
+C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/c++/13.3.1/cmath:108:3:constexpr float std::asin(float)	16	static
+C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/c++/13.3.1/cmath:146:3:constexpr float std::atan2(float, float)	16	static
+C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\arm-none-eabi\include\c++\13.3.1\arm-none-eabi\thumb\v7e-m+fp\hard\bits\gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+../Core/Src/Robot_BallRelated/BallTrack_AngleChecking.cpp:3:7:float BallTrack_AngleChecking::toRadians(float)	16	static
+../Core/Src/Robot_BallRelated/BallTrack_AngleChecking.cpp:7:7:float BallTrack_AngleChecking::toDegrees(float)	16	static
+../Core/Src/Robot_BallRelated/BallTrack_AngleChecking.cpp:11:7:float BallTrack_AngleChecking::normalizeDegrees(float)	24	static
+../Core/Src/Robot_BallRelated/BallTrack_AngleChecking.cpp:28:5:int BallTrack_AngleChecking::sign(float)	16	static
+../Core/Src/Robot_BallRelated/BallTrack_AngleChecking.cpp:38:6:void BallTrack_AngleChecking::update(float, float)	24	static
+../Core/Src/Robot_BallRelated/BallTrack_AngleChecking.cpp:44:1:BallTrack_AngleChecking::BallTrack_AngleChecking()	16	static
+C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/c++/13.3.1/cmath:120:5:constexpr typename __gnu_cxx::__enable_if<std::__is_integer<_Tp>::__value, double>::__type std::asin(_Tp) [with _Tp = int]	16	static
+../Core/Src/Robot_BallRelated/BallTrack_AngleChecking.cpp:47:7:float BallTrack_AngleChecking::effectiveAngleFromYaxis(int*)	40	static
+../Core/Src/Robot_BallRelated/BallTrack_AngleChecking.cpp:80:6:bool BallTrack_AngleChecking::moveAngle_IS_effective(float, float)	40	static

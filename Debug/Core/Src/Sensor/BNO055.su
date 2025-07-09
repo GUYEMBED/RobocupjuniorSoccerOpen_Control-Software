@@ -1,0 +1,10 @@
+../Core/Src/Sensor/BNO055.cpp:4:1:BNO055::BNO055()	16	static
+../Core/Src/Sensor/BNO055.cpp:8:6:void BNO055::writeRegister(uint8_t, uint8_t)	32	static
+../Core/Src/Sensor/BNO055.cpp:15:6:void BNO055::readRegister(uint8_t, uint8_t*, uint8_t)	40	static
+../Core/Src/Sensor/BNO055.cpp:20:6:void BNO055::init()	24	static
+../Core/Src/Sensor/BNO055.cpp:49:6:bool BNO055::isDataReady()	24	static
+../Core/Src/Sensor/BNO055.cpp:56:6:void BNO055::readGyro()	32	static
+../Core/Src/Sensor/BNO055.cpp:70:6:void BNO055::readCompass()	32	static
+../Core/Src/Sensor/BNO055.cpp:87:7:float BNO055::normalizeAngle(float)	16	static
+../Core/Src/Sensor/BNO055.cpp:96:7:float BNO055::calculateAngleDifference(float, float)	32	static
+../Core/Src/Sensor/BNO055.cpp:110:6:void BNO055::updateData()	16	static

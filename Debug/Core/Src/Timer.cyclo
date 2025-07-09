@@ -1,0 +1,8 @@
+../Core/Src/Timer.cpp:3:1:Timer::Timer()	1
+../Core/Src/Timer.cpp:7:6:void Timer::setup()	1
+../Core/Src/Timer.cpp:11:6:void Timer::reset()	1
+../Core/Src/Timer.cpp:17:6:void Timer::update()	1
+../Core/Src/Timer.cpp:22:6:void Timer::onOverflow()	1
+../Core/Src/Timer.cpp:26:10:uint32_t Timer::getMicroseconds() const	2
+../Core/Src/Timer.cpp:38:10:uint32_t Timer::getMilliseconds()	1
+../Core/Src/Timer.cpp:41:6:bool Timer::Flag(uint32_t)	2

@@ -1,0 +1,12 @@
+../Core/Src/Sensor/LidarReader.cpp:4:1:LidarReader::LidarReader()	1
+../Core/Src/Sensor/LidarReader.cpp:9:6:void LidarReader::resetBuffers()	1
+../Core/Src/Sensor/LidarReader.cpp:15:6:void LidarReader::init()	1
+../Core/Src/Sensor/LidarReader.cpp:22:6:void LidarReader::onUartReceiveComplete()	9
+../Core/Src/Sensor/LidarReader.cpp:64:7:float LidarReader::decodeAngle(uint8_t, uint8_t)	1
+../Core/Src/Sensor/LidarReader.cpp:68:6:void LidarReader::processData()	5
+../Core/Src/Sensor/LidarReader.cpp:106:6:bool LidarReader::isAngleInCurrentFrame(float)	8
+../Core/Src/Sensor/LidarReader.cpp:123:10:uint16_t LidarReader::getDistanceAtAngle(float)	3
+../Core/Src/Sensor/LidarReader.cpp:137:6:void LidarReader::FindLargestDis_AngleInRange(float*, float*, float, float)	5
+../Core/Src/Sensor/LidarReader.cpp:194:6:void LidarReader::FindSmallestDis_Angle(float*, float*)	6
+../Core/Src/Sensor/LidarReader.cpp:216:6:void LidarReader::CalculateXYcoord(float, float, float*, float*)	1
+../Core/Src/Sensor/LidarReader.cpp:224:6:void LidarReader::localize()	6

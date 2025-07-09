@@ -1,0 +1,5 @@
+../Core/Src/bno05.cpp:4:12:int BNO05_WriteReg(BNO05_HandleTypeDef*, uint8_t, uint8_t)	32	static
+../Core/Src/bno05.cpp:8:12:int BNO05_ReadReg(BNO05_HandleTypeDef*, uint8_t, uint8_t*)	40	static
+../Core/Src/bno05.cpp:12:12:int BNO05_ReadRegs(BNO05_HandleTypeDef*, uint8_t, uint8_t*, uint8_t)	48	static
+../Core/Src/bno05.cpp:16:5:int BNO05_Init(BNO05_HandleTypeDef*)	24	static
+../Core/Src/bno05.cpp:58:5:int BNO05_ReadQuaternion(BNO05_HandleTypeDef*, BNO05_Quaternion*)	40	static

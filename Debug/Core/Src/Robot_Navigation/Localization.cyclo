@@ -1,0 +1,13 @@
+C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/c++/13.3.1/bits/std_abs.h:75:3:constexpr float std::abs(float)	1
+C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/c++/13.3.1/cmath:177:3:constexpr float std::cos(float)	1
+C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/c++/13.3.1/cmath:400:3:constexpr float std::sin(float)	1
+C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/c++/13.3.1/cmath:438:3:constexpr float std::sqrt(float)	1
+C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\arm-none-eabi\include\c++\13.3.1\arm-none-eabi\thumb\v7e-m+fp\hard\bits\gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	1
+../Core/Src/Robot_Navigation/Localization.cpp:3:1:Localization::Localization(float)	1
+../Core/Src/Robot_Navigation/Localization.cpp:7:7:float Localization::Displacement(float, float, float, float)	1
+../Core/Src/Robot_Navigation/Localization.cpp:11:7:float Localization::multiplyTimes(int, float)	4
+../Core/Src/Robot_Navigation/Localization.cpp:24:6:void Localization::updateEncoder(float)	2
+../Core/Src/Robot_Navigation/Localization.cpp:39:6:void Localization::localize()	3
+../Core/Src/Robot_Navigation/Localization.cpp:63:6:void Localization::relocateEncoder(float, float)	1
+../Core/Src/Robot_Navigation/Localization.cpp:67:7:float Localization::ToRadians(float)	1
+../Core/Src/Robot_Navigation/Localization.cpp:71:7:float Localization::ToDegrees(float)	1

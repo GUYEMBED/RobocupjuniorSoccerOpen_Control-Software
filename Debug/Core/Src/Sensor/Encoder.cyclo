@@ -1,0 +1,6 @@
+C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\arm-none-eabi\include\c++\13.3.1\arm-none-eabi\thumb\v7e-m+fp\hard\bits\gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	1
+../Core/Src/Sensor/Encoder.cpp:3:1:Encoder::Encoder(float, float, uint32_t, const std::string&, const std::string&)	1
+../Core/Src/Sensor/Encoder.cpp:8:8:int8_t Encoder::checkDirection()	2
+../Core/Src/Sensor/Encoder.cpp:27:8:double Encoder::getSpeed(uint32_t)	5
+../Core/Src/Sensor/Encoder.cpp:58:6:void Encoder::EncoderISR(uint16_t, uint16_t)	4
+../Core/Src/Sensor/Encoder.cpp:74:8:double Encoder::getSpeed_IT()	3

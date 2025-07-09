@@ -1,0 +1,5 @@
+../Core/Src/PeripheralCallbackHandler.cpp:8:6:static void PeripheralCallbackHandler::UartRxCplt(UART_HandleTypeDef*)	3
+../Core/Src/PeripheralCallbackHandler.cpp:22:6:static void PeripheralCallbackHandler::I2CMemRxCplt(I2C_HandleTypeDef*)	1
+../Core/Src/PeripheralCallbackHandler.cpp:25:6:static void PeripheralCallbackHandler::I2CMasterTxCplt(I2C_HandleTypeDef*)	1
+../Core/Src/PeripheralCallbackHandler.cpp:28:6:static void PeripheralCallbackHandler::I2CMasterRxCplt(I2C_HandleTypeDef*)	1
+../Core/Src/PeripheralCallbackHandler.cpp:31:6:static void PeripheralCallbackHandler::UartTxCplt(UART_HandleTypeDef*)	1
